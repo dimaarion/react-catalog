@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": "https://im0-tub-ru.yandex.net/i?id=3dda628e9d7104abae3f5794826ba070&n=13&exp=1",
+    "names": "Роллс ройс куллинан",
+    "price": 20000
+  },
+  {
+    "id": 2,
+    "img": "https://universeofcars.ru/wp-content/uploads/2018/05/az8x2862_1.jpg",
+    "names": "Роллс ройс куллинан2",
+    "price": 22000
+  },
+  {
+    "id": 3,
+    "img": "http://wp3.carwallpapers.ru/rolls-royce/cullinan/2019-shanghai-motor-show/Rolls-Royce-Cullinan-Shanghai-Motor-Show-2019-1920x1200-001.jpg",
+    "names": "Роллс ройс куллинан3",
+    "price": 25000
+  }
+]
